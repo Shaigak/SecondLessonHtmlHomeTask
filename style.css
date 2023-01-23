@@ -1,0 +1,55 @@
+body h2{
+    margin-left: 600px; 
+    margin-top: 200px;
+}
+
+.ref{
+    margin-right: 300px;
+}
+body a {
+    color:black;
+}
+button{
+    background-color:#27d412;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.box{
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.def{
+    background-color:#8b451f;
+    text-align: center;
+    height: 100px;
+    
+    padding : 90px;
+      
+}
+.cen{
+    width: 100px;
+    height: 30px;
+    
+}
+
+
+.ref{
+    background-color: #d2a262;
+    text-align: ;
+    height: 400px;
+   
+    padding : 50px;
+}
+
+.set{
+    background-color: rgb(221, 215, 208); width: 240px;
+    margin-left: 600px;
+    height: 170px;
+}
+
+
+
+
